@@ -209,3 +209,4 @@ Sanchita Nitin Mote
 B.Tech Artificial Intelligence and Data Science Student
 Interested in Software Development, AI/ML, and Defence
 Preparing for Placements, GATE, and Defence Exams
+- Solved LeetCode 944: Delete Columns to Make Sorted
