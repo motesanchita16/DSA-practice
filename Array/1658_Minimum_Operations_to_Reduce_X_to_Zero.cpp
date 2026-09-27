@@ -12,6 +12,7 @@ public:
 
       if(target<0){
         return -1;
+        
       } 
       if(target==0){
         return n;
